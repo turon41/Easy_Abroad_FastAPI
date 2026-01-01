@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+email-validator
+python-multipart
+
+
+pip install fastapi uvicorn sqlalchemy pydantic email-validator python-multipart
+pip uninstall bcrypt passlib -y
+>> pip install bcrypt==4.1.2 passlib==1.7.4
+pip install fastapi-pagination
